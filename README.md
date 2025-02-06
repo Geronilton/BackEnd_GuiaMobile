@@ -4,6 +4,8 @@
 ## Backend Node.js com Express
 Este repositório contém a implementação do backend para um aplicativo de Orientação em espaços internos de PcD visual. Foi desenvolvido utilizando Node.js com Express e Sequelize para gerenciamento do banco de dados. O pacote de banco de dados configurado e o MySQL, se quiser utilizar outro banco sera necessario instalar os pacotes correspondentes.
 
+repositorio do aplicativo: https://github.com/Geronilton/app_GuiaMobile.git
+
 ## Funcionalidades
 - CRUD de Usuários: Criação, leitura, atualização e deleção de usuários.
 - Requisição de rotas e instruções das rotas.
@@ -33,6 +35,7 @@ Para criar as tabelas necessárias no banco de dados, execute as migrações com
 
 Clone o repositório:
 git clone https://github.com/Geronilton/BackEnd_GuiaMobile.git
+
 cd BackEnd_GuiaMobile
 
  ## Instale as dependências:
